@@ -1,0 +1,44 @@
+
+  section h2 {
+    color: #8b0000;
+    font-size: 50px;
+  }
+
+  .navbar-nav .nav-link {
+    color: #333333;
+    transition: 0.3s;
+  }
+
+  .navbar-nav .nav-link:hover,
+  .navbar-nav .nav-link.active {
+    color: #d4708d;
+  }
+
+  #v-pills-tab .nav-link {
+    background-color: #ffffff;
+    color: #d4708d;
+    border: 1px solid #d4708d;
+  }
+
+  #v-pills-tab .nav-link:hover,
+  #v-pills-tab .nav-link.active {
+    background-color: #d4708d;
+    color: #ffffff;
+  }
+
+.navbar {
+  background-color: #ffffff !important;
+}
+
+.card .badge.bg-danger {
+  background-color: #d4708d !important;
+}
+
+.tab-content h4 {
+  color: #333333 !important;
+}
+
+#v-pills-tabContent {
+  background-color: #ffffff !important;
+}
+
